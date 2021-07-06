@@ -1,0 +1,2 @@
+# SEVENENINE
+An application that records the plants that you have cultivated. It is used to record them outdoors and indoors. The current application is still under development, and some functions are still under development. Time modification and plant photo modification functions will be added in the later stage. The current stage is mainly to test the interface logic and addition logic of the project. If you encounter problems during the test, please contact me.
